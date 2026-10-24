@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "E1001",
+    "display_name": "Alex Chen",
+    "department": "IT",
+    "password_salt": "8f94a71051fab8a68330781e95840237",
+    "password_hash": "12de45c606c06fba28bf3cc2b14b2f2df0ad736ae7c65598c574e1754bb787ff",
+    "active": true
+  },
+  {
+    "user_id": "E1002",
+    "display_name": "Jordan Lee",
+    "department": "Finance",
+    "password_salt": "ef70e87c4428c4e97de58d26bf5c95b0",
+    "password_hash": "9ac79430a735e70f7fd3b95af09be7209721206d56522da50a6e2e49f4ec8427",
+    "active": true
+  },
+  {
+    "user_id": "E1003",
+    "display_name": "Sam Rivera",
+    "department": "Operations",
+    "password_salt": "cc6d4ad30df8ef647fe99804d866680c",
+    "password_hash": "f512dc8891284d9b12e8b1774974af6f9a60a713a9c17ff02c95e6c67fe8309d",
+    "active": true
+  }
+]

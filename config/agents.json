@@ -1,0 +1,35 @@
+{
+  "agents": [
+    {
+      "name": "triage_planner",
+      "description": "Classifies a helpdesk request and proposes a guarded next step.",
+      "capabilities": ["intent classification", "planning"],
+      "version": "1"
+    },
+    {
+      "name": "knowledge_search",
+      "description": "Finds relevant examples in the frozen ticket knowledge base.",
+      "capabilities": ["semantic search", "evidence retrieval"],
+      "version": "1"
+    },
+    {
+      "name": "access_check",
+      "description": "Performs a mock read-only access check; never grants access.",
+      "capabilities": ["mock identity check"],
+      "version": "1"
+    },
+    {
+      "name": "action_ticket",
+      "description": "Creates a mock ticket only after human approval.",
+      "capabilities": ["approved mock ticket creation"],
+      "version": "1"
+    },
+    {
+      "name": "response_reflection",
+      "description": "Answers from retrieved evidence and checks groundedness.",
+      "capabilities": ["response generation", "groundedness review"],
+      "version": "1"
+    }
+  ]
+}
+

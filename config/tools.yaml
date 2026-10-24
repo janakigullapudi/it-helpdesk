@@ -1,0 +1,15 @@
+version: "1"
+tools:
+  - name: check_access
+    description: Check access status in a mock, read-only identity system.
+    version: "1"
+    approval_required: false
+    input_schema: CheckAccessInput
+    output_schema: CheckAccessOutput
+  - name: create_mock_ticket
+    description: Create a local mock ticket; it does not connect to a ticketing system.
+    version: "1"
+    approval_required: true
+    input_schema: CreateTicketInput
+    output_schema: CreateTicketOutput
+

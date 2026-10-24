@@ -1,0 +1,8 @@
+[project]
+name = "it-helpdesk-agent"
+version = "0.1.0"
+description = "A governed, observable, Gemini-powered multi-agent IT helpdesk demo."
+requires-python = ">=3.11,<3.15"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

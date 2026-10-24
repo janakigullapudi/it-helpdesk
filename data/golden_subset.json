@@ -1,0 +1,252 @@
+[
+  {
+    "ticket_id": "TCKT_025902",
+    "initial_message": "I cannot log in; the system says my password is incorrect.",
+    "resolution_summary": "Reset account credentials and confirmed successful login."
+  },
+  {
+    "ticket_id": "TCKT_073667",
+    "initial_message": "My 2FA code is not working when I try to sign in.",
+    "resolution_summary": "Reset account credentials and confirmed successful login."
+  },
+  {
+    "ticket_id": "TCKT_046462",
+    "initial_message": "My account was locked after multiple failed login attempts.",
+    "resolution_summary": "Reset account credentials and confirmed successful login."
+  },
+  {
+    "ticket_id": "TCKT_072298",
+    "initial_message": "I was charged twice for my subscription this month.",
+    "resolution_summary": "Adjusted the invoice and issued a refund where applicable."
+  },
+  {
+    "ticket_id": "TCKT_082586",
+    "initial_message": "I downgraded my plan but I am still being billed for the higher tier.",
+    "resolution_summary": "Adjusted the invoice and issued a refund where applicable."
+  },
+  {
+    "ticket_id": "TCKT_094279",
+    "initial_message": "My invoice amount is incorrect compared to the plan I selected.",
+    "resolution_summary": "Adjusted the invoice and issued a refund where applicable."
+  },
+  {
+    "ticket_id": "TCKT_009458",
+    "initial_message": "I noticed a suspicious login on my account.",
+    "resolution_summary": "Investigated logs, mitigated the issue, and updated security settings."
+  },
+  {
+    "ticket_id": "TCKT_070355",
+    "initial_message": "We need details about your data encryption and compliance.",
+    "resolution_summary": "Investigated logs, mitigated the issue, and updated security settings."
+  },
+  {
+    "ticket_id": "TCKT_004157",
+    "initial_message": "There seems to be a vulnerability in the login auth functionality.",
+    "resolution_summary": "Investigated logs, mitigated the issue, and updated security settings."
+  },
+  {
+    "ticket_id": "TCKT_091014",
+    "initial_message": "I am seeing an error message when I click on analytics dashboard.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_027612",
+    "initial_message": "The api integration feature is not saving my changes.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_089152",
+    "initial_message": "The page keeps crashing whenever I try to open the data export section.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_084745",
+    "initial_message": "Queries in the api integration module are timing out.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_099852",
+    "initial_message": "The billing page is very slow and takes a long time to load.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_082997",
+    "initial_message": "Overall performance has degraded in the last few days.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_003683",
+    "initial_message": "Can you explain how to configure analytics dashboard properly?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_022192",
+    "initial_message": "How can I export my data from the data export section?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_069597",
+    "initial_message": "I need help setting up api integration for my team.",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_009393",
+    "initial_message": "Can you add an option to customize notifications?",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_041546",
+    "initial_message": "I need help but I'm not sure which category this fits in.",
+    "resolution_summary": "Provided general guidance and confirmed the issue was resolved."
+  },
+  {
+    "ticket_id": "TCKT_009178",
+    "initial_message": "Can you explain how to configure api integration properly?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_033258",
+    "initial_message": "Can you explain how to configure billing properly?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_099937",
+    "initial_message": "How can I export my data from the login auth section?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_052663",
+    "initial_message": "How can I export my data from the mobile app section?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_058301",
+    "initial_message": "How can I export my data from the notifications section?",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_074841",
+    "initial_message": "I need help setting up analytics dashboard for my team.",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_026234",
+    "initial_message": "I need help setting up data export for my team.",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_006880",
+    "initial_message": "I need help setting up billing for my team.",
+    "resolution_summary": "Provided step-by-step instructions and relevant documentation."
+  },
+  {
+    "ticket_id": "TCKT_023282",
+    "initial_message": "I am seeing an error message when I click on mobile app.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_040845",
+    "initial_message": "I am seeing an error message when I click on notifications.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_029140",
+    "initial_message": "The billing feature is not saving my changes.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_010869",
+    "initial_message": "The login auth feature is not saving my changes.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_038448",
+    "initial_message": "The page keeps crashing whenever I try to open the mobile app section.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_015850",
+    "initial_message": "The page keeps crashing whenever I try to open the notifications section.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_030604",
+    "initial_message": "The page keeps crashing whenever I try to open the analytics dashboard section.",
+    "resolution_summary": "Patched the bug and deployed a fix to production."
+  },
+  {
+    "ticket_id": "TCKT_085906",
+    "initial_message": "Queries in the data export module are timing out.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_071577",
+    "initial_message": "The mobile app page is very slow and takes a long time to load.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_043783",
+    "initial_message": "The notifications page is very slow and takes a long time to load.",
+    "resolution_summary": "Optimized queries and increased resource allocation."
+  },
+  {
+    "ticket_id": "TCKT_052194",
+    "initial_message": "There seems to be a vulnerability in the analytics dashboard functionality.",
+    "resolution_summary": "Investigated logs, mitigated the issue, and updated security settings."
+  },
+  {
+    "ticket_id": "TCKT_086600",
+    "initial_message": "There seems to be a vulnerability in the data export functionality.",
+    "resolution_summary": "Investigated logs, mitigated the issue, and updated security settings."
+  },
+  {
+    "ticket_id": "TCKT_051819",
+    "initial_message": "Can you add an option to customize billing?",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_005274",
+    "initial_message": "Can you add an option to customize mobile app?",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_046028",
+    "initial_message": "It would be great to have analytics dashboard support in your product.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_016234",
+    "initial_message": "It would be great to have api integration support in your product.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_042953",
+    "initial_message": "It would be great to have data export support in your product.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_098489",
+    "initial_message": "Our team needs more advanced options for login auth.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_081289",
+    "initial_message": "Our team needs more advanced options for mobile app.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_025490",
+    "initial_message": "Our team needs more advanced options for notifications.",
+    "resolution_summary": "Captured the request and added it to the product backlog."
+  },
+  {
+    "ticket_id": "TCKT_038099",
+    "initial_message": "I have a general question about my account.",
+    "resolution_summary": "Provided general guidance and confirmed the issue was resolved."
+  },
+  {
+    "ticket_id": "TCKT_019347",
+    "initial_message": "Something seems off, can you please check my workspace?",
+    "resolution_summary": "Provided general guidance and confirmed the issue was resolved."
+  }
+]
